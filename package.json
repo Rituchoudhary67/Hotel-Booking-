@@ -1,17 +1,25 @@
 {
   "name": "project_1",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rituchoudhary67/Hotel-Booking-.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "bugs": {
+    "url": "https://github.com/Rituchoudhary67/Hotel-Booking-/issues"
+  },
+  "homepage": "https://github.com/Rituchoudhary67/Hotel-Booking-#readme",
   "dependencies": {
     "ejs": "^3.1.10",
     "express": "^5.1.0",
-    "mongoose": "^8.13.1"
+    "mongoose": "^8.15.1"
   }
 }
